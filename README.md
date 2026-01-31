@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I’m Rafsaan 👋
 
-<!--
-**sanvirrafsaan/sanvirrafsaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Statistics & Psychology student at the University of Toronto with applied experience in data science and analytics across Ontario government and startup environments. I focus on using data to support evidence-informed decision-making at scale.
 
-Here are some ideas to get you started:
+### What I work on
+- Applied data science & experimentation
+- Statistical modeling and time series analysis
+- SQL-driven analytics and data pipelines
+- Communicating insights to non-technical stakeholders
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & methods
+Python, SQL, R, Scikit-learn, PySpark, Power BI, Tableau, A/B testing, time series (ARIMA, GARCH)
+
+📄 **Resume:** [link]  
+🔗 **LinkedIn:** [link]
