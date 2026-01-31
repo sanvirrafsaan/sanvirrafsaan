@@ -19,7 +19,7 @@ I’m a Statistics & Psychology student at the University of Toronto with applie
 - **Bank Loan Analytics** — SQL + Power BI dashboards for risk insights
 
 ### Tools
-Python · SQL · R · Scikit-learn · PySpark · Power BI · Tableau
+Python · SQL · R · Scikit-learn · Tensorflow · PySpark · Power BI · Tableau
 
 📄 Resume: [https://drive.google.com/file/d/1Zv_cTL5fhwAOLkXXGJWMspDVSZ8dIKGh/view?usp=share_link]  
 🔗 LinkedIn: [https://www.linkedin.com/in/sanvirrafsaan01/]
