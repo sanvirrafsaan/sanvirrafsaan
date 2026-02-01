@@ -1,6 +1,6 @@
 ## Hi, I’m Rafsaan 👋
 
-I’m a Statistics & Psychology student at the University of Toronto with applied experience in data science and analytics across public-sector and startup environments. I focus on using data to support evidence-informed decision-making at scale.
+I’m a Statistics & Psychology student at the University of Toronto with applied experience in data science and analytics across enterprise and startup environments. I focus on using data to support evidence-informed decision-making at scale.
 
 ### What I do
 - Exploratory, inferential, and predictive analytics
@@ -8,10 +8,11 @@ I’m a Statistics & Psychology student at the University of Toronto with applie
 - SQL-driven analytics and data pipelines
 - Communicating insights to non-technical stakeholders
 
-### Experience snapshot
-- Built analytics and ML workflows supporting decisions for Ontario government programs
+### Experience: 
+- Built analytics and ML workflows supporting decisions for Ontario government programs.
+- Wrote SQL query logic that resulted in projected cost savings of $250,000 annually. 
 - Designed dashboards and experiments used by executive stakeholders
-- Developed geospatial and time-series analyses on real-world datasets
+- Developed geospatial data pipelines and conducted statistical analyses on real-world datasets for startups
 
 ### Selected work
 - **YouTube Spam Detection** — supervised NLP models (93% accuracy)
